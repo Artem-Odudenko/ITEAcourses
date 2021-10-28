@@ -21,6 +21,6 @@ public class Homework2
         Scanner count = new Scanner(System.in);
         String c = heigth.nextLine();
 
-        System.out.println("The height build " + h + " m and " + c + " floors.");git
+        System.out.println("The height build " + h + " m and " + c + " floors.");
     }
 }
